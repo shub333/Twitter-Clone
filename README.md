@@ -22,3 +22,5 @@ python manage.py migrate ribbit_app
 Finally, start the development server to preview the application:
 
 python manage.py runserver
+
+A third party Javascript is used-less.js
